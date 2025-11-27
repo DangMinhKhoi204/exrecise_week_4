@@ -25,24 +25,19 @@ lib/
 
 ---
 
-# ListView — Danh sách liên hệ
+# ListView 
 
 | Description         | Image                                  |
 | ------------------- | -------------------------------------- |
 | Contact List Screen | ![contacts](images/contact_list.png)   |
 
 
-## Yêu cầu
-
-* Model `Contact`
-* List scrollable
-* Avatar, name, phone
 
 ---
 
 ---
 
-# GridView Gallery — 12 ảnh / icon
+# GridView Gallery 
 
 ### Screenshot
 
@@ -58,14 +53,7 @@ lib/
 | Grid Gallery (Responsive) | ![grid(Responsive)](images/grid_gallery(Responsive).png)   | 
                                                             
 
-## Mục tiêu
 
-* Section 1: `GridView.count()`
-* Section 2: `GridView.extent()`
-* Mỗi item:
-
-  * Container bo góc
-  * Icon/ảnh + label
 
 ---
 
@@ -73,7 +61,7 @@ lib/
 
 
 
-# Async Programming — Load dữ liệu
+# Async Programming 
 
 ### Screenshot
 
@@ -81,11 +69,7 @@ lib/
 | ----------------- | ------------------------------------------ |
 | Async User Screen | ![async](images/async_screen.png)          |
 
-## Yêu cầu
 
-* Hiển thị `"Loading user..."`
-* `Future.delayed(3s)`
-* Sau khi xong → `"User loaded successfully!"`
 
 ---
 
@@ -124,18 +108,6 @@ dependencies:
 ```
 
 ---
-
----
-
-# Knowledge Summary
-
-| Topic           | Technology                           |
-| --------------- | ------------------------------------ |
-| UI list & grid  | ListView, GridView                   |
-| Local storage   | SharedPreferences                    |
-| Async           | Future, async/await                  |
-| Multithreading  | isolate, compute                     |
-| Console isolate | Isolate.spawn + ReceivePort/SendPort |
 
 ---
 

@@ -5,7 +5,7 @@
 
 > Ảnh này dùng để chứng minh bài tập do mình tự thực hiện.
 
-![owner](images/owner.jpg)
+![owner](images/owner1.jpg)
 
 ---
 

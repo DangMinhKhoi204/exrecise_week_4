@@ -1,6 +1,11 @@
 # 📘 Exercise Week 4 – Flutter Practice  
-**Sinh viên: Đặng Minh Khôi**  
+**Sinh viên: Đặng Minh Khôi - Để xác nhận là em tự làm thì em sẽ đánh dấu chủ quyền để chứng minh ạ**  
 **MSSV: 2224801030323**
+# 📸. Ảnh xác nhận chủ quyền (Tự làm)
+
+> Ảnh này dùng để chứng minh bài tập do mình tự thực hiện.
+
+![owner](images/owner.jpg)
 
 ---
 
